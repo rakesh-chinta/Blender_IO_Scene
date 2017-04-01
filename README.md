@@ -1,2 +1,2 @@
-# Blender_IO_Scene
-blender integration module for GSOC 2017 blender project on GLTF.
+# io_scene_gltf
+The submodule approach used to create this add on turned out to be awkward to use. The blendergltf module (https://github.com/rakesh-chinta/GLTFblenderGSOC) now has the ability to be used as an addon directly. Therefore this repository, after it's very short lifespan, is now deprecated.
